@@ -14,7 +14,7 @@
 
 - 👀 Меняю профессиональную деятельность с педагогического.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-magerramovaminaya-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-magerramovaminaya-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/magerramova_m) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
 
 ---
 
