@@ -12,7 +12,7 @@
 
 - :zap: Имею два высших математического образования!
 
-- 👀 Меняю профессиональную деятельность с педагогического.
+- 👀 Меняю профессиональную деятельность с педагогического. ✨
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-magerramovaminaya-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/magerramova_m) [![Mail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=Mail&logoColor=white)](mailto:magerramovaminaya@mail.ru)
 
